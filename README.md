@@ -45,4 +45,4 @@ Here are some ideas to get you started:
  
 ## :zap: Github Stats:
 
-  <img align="left" alt="Poovanna's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=poovanna886&show_icons=true&hide_border=true" />
+  <img align="left" alt="Poovanna's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Poovanna886&show_icons=true&hide_border=true" />
