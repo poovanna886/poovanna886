@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## Student at PES University!
 
 - Class of 2021
-<br/>
-<br/>
 
+- Information Science Engineer
+<br/>
 
 ## Languages and Tools:
 
