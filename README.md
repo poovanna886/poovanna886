@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - Class of 2021
 
 - Information Science Engineer
+
+- 我正在学习中文 :grin:
 <br/>
 
 ## Languages and Tools:
