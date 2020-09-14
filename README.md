@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Class of 2021
 <br/>
 <br/>
--->
+
 
 ## Languages and Tools:
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
--->
+
 <br/>
 ## <summary>:zap:Poovanna's Github Stats</summary>
 
