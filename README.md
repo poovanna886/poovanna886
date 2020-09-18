@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on REST api's
+-  🔭 I’m currently working on REST api's
+
 - 🌱 我正在学习中文 :grin:
-- 💬 Ask me about Javascript
+
+- 💬 Ask me about Javascript/Typescript
+
 - 📫 How to reach me: vanchirapoovanna@gmail.com
 
 
