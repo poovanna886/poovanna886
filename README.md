@@ -16,7 +16,6 @@
 
 - Information Science Engineer
 
-<br/>
 
 ## Languages and Tools:
 
