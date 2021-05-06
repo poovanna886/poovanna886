@@ -3,7 +3,7 @@
 
 -  🔭 I’m currently working on REST api's
 
-- 🌱 我正在学习中文 :grin:
+- 🌱 私は日本語を学んでいます :grin:
 
 - 💬 Ask me about Javascript/Typescript
 
