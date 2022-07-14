@@ -10,7 +10,7 @@
 - 📫 How to reach me: vanchirapoovanna@gmail.com
 
 
-## :man_student: Student at PES University!
+## :man_student: Graduated from PES University!
 
 - Class of 2021
 
