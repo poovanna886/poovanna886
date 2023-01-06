@@ -3,7 +3,7 @@
 
 -  🔭 I’m currently working on a custom linux kernel module
 
-- 🌱 私は日本語を学んでいます :grin:
+- 🌱 私は日本語を学んでいます 
 
 - 💬 Ask me about Javascript/Typescript
 
