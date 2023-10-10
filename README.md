@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
--  🔭 I’m currently working on a custom linux kernel module
+-  🔭 I’m currently working on web technologies
 
 - 🌱 私は日本語を学んでいます 
 
