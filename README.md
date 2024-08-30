@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
--  🔭 I’m currently working on web technologies
+-  🔭 I’m currently working on React 18
 
 - 🌱 私は日本語を学んでいます 
 
